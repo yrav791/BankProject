@@ -127,3 +127,23 @@
 09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
 09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
 09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:30.030 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:37.037 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+14:53:37.037 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+14:53:41.041 [main] INFO  testCases.TC001_LoginPage - validating banker information
+14:53:42.042 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
