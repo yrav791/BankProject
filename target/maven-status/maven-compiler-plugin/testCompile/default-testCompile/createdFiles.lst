@@ -1,0 +1,10 @@
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+testCases\TC003_loginPageTestDDT.class
+utilities\DataProviders.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObjects\addNewCustomer.class
+testCases\TC001_LoginPage.class
+testCases\TC002_addNewCustomer.class

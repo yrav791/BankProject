@@ -1,0 +1,434 @@
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+09:20:40.040 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:40.040 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:40.040 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:40.040 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:40.040 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:40.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:20:41.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:20:41.041 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:20:43.043 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_loginPageTestDDT.verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_loginPageTestDDT@13f17eb4] -810449566
+09:20:43.043 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:20:43.043 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:20:43.043 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:20:43.043 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml"
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@5bc9ba1d] 1755329350
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:22:58.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:22:58.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml
+
+09:26:14.014 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+09:26:14.014 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+09:26:19.019 [main] INFO  testCases.TC001_LoginPage - validating banker information
+09:26:20.020 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:26:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:26:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:26:21.021 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:26:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:26:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:40:34.034 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_loginPageTestDDT.verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_loginPageTestDDT@4bc28c33] 125997793
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:40:34.034 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:40:34.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:42:08.008 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml"
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@5bc9ba1d] 1755329350
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:42:08.008 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:42:08.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml
+
+09:43:36.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:36.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:36.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+09:43:36.036 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:37.037 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:37.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:38.038 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:38.038 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:43:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:43:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:43:38.038 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:43:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_loginPageTestDDT.verify_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_loginPageTestDDT@4bc28c33] 125997793
+09:43:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:43:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:43:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:43:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:45:19.019 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+09:45:19.019 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+09:45:24.024 [main] INFO  testCases.TC001_LoginPage - validating banker information
+09:45:25.025 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:45:26.026 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:45:26.026 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:45:26.026 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:45:26.026 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:45:26.026 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml"
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@5bc9ba1d] 1755329350
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:49:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:49:41.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml
+
+09:49:50.050 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+09:49:50.050 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+09:49:55.055 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - validating banker information
+09:49:56.056 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:52:44.044 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:52:44.044 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:52:44.044 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:52:44.044 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:52:44.044 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml"
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@5bc9ba1d] 1755329350
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:56:04.004 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:56:04.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\grid_docker.xml
+
+09:56:14.014 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+09:56:14.014 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+09:56:19.019 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - validating banker information
+09:56:20.020 [TestNG-tests-2] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+10:00:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+10:00:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:00:19.019 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:00:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:00:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:53:12.012 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\Dockergrid.xml"
+11:54:03.003 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\Dockergrid.xml"
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@5bc9ba1d] 1755329350
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:54:03.003 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:54:03.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\Dockergrid.xml
+
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@5bc9ba1d] 1755329350
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4bc28c33] 1486423388
