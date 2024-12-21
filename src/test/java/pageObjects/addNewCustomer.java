@@ -97,27 +97,4 @@ public class addNewCustomer extends BasePage{
 		
 	}
 	
-	public static String randomStringName(){
-		String generateString=RandomStringUtils.randomAlphabetic(5);
-		return generateString;
-				
-	}
-	
-	public static String randomStringAddress(){
-		String generateString=RandomStringUtils.randomAlphabetic(20);
-		return generateString;
-				
-	}
-
-	public static String randomNumber(){
-		String generateNumber=RandomStringUtils.randomNumeric(8);
-		return generateNumber;		
-	}
-	public static String randomAlphanumeric(){
-		String generateString=RandomStringUtils.randomAlphabetic(5);
-		String generateNumber=RandomStringUtils.randomNumeric(3);
-		return (generateString+generateNumber);
-	}
-		
-
 }
