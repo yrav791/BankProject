@@ -97,11 +97,11 @@ public class BaseClass {
 	
 	public String captureScreen(String tname)
 	{
-		String timeStamp=new SimpleDateFormat("yyyy.MM.dd,hh:mm:ss").format(new Date());
+		String timeStamp=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		TakesScreenshot takeScreenshot=(TakesScreenshot)driver;
 		File sourceFile=takeScreenshot.getScreenshotAs(OutputType.FILE);
 		
-		String targetFilePath=(".\\BankProject\\ScreenShotss\\")+tname+" "+timeStamp+".png";
+		String targetFilePath=System.getProperty("user.dir")+"\\ScreenShotss\\"+tname+" "+timeStamp+".png";
 		File targetFile=new File (targetFilePath);
 	    sourceFile.renameTo(targetFile);
 	    return targetFilePath;

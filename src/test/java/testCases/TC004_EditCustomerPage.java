@@ -8,7 +8,7 @@ import pageObjects.EditCustomerPage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-public class TC003_EditCustomerPage extends BaseClass{
+public class TC004_EditCustomerPage extends BaseClass{
 
 	 public Scanner sc;
 	 @Test(groups = "smoke")

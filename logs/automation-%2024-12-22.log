@@ -1,0 +1,523 @@
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:57:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:09.009 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\Dockergrid.xml"
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@72f46e16] 2144003903
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@523424b5] 1594531294
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:49:10.010 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:49:10.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\Dockergrid.xml
+
+14:52:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@523424b5] 1594531294
+14:52:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:52:14.014 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:52:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:52:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:52:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@72f46e16] 2144003903
+14:52:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:52:15.015 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:52:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:52:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+08:57:00.000 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@569bf9eb] 1668444948
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+08:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+08:57:16.016 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+08:57:17.017 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+08:57:21.021 [main] INFO  testCases.TC001_LoginPage - validating banker information
+08:57:22.022 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:04:23.023 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:04:23.023 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:04:28.028 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+09:04:28.028 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+09:04:32.032 [main] INFO  testCases.TC001_LoginPage - validating banker information
+09:04:34.034 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:05:29.029 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:05:29.029 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:05:34.034 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+09:05:34.034 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+09:05:39.039 [main] INFO  testCases.TC001_LoginPage - validating banker information
+09:05:40.040 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:09:07.007 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:09:07.007 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:09:11.011 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:30.030 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+14:53:30.030 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+14:53:37.037 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+14:53:37.037 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+14:53:41.041 [main] INFO  testCases.TC001_LoginPage - validating banker information
+14:53:42.042 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+15:07:19.019 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@4c550889] 1496023474
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+15:07:19.019 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+15:07:26.026 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+15:07:26.026 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+15:07:30.030 [main] INFO  testCases.TC001_LoginPage - validating banker information
+15:07:31.031 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+09:27:01.001 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:27:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:27:02.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:27:59.059 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:27:59.059 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:27:59.059 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:28:54.054 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:28:54.054 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:28:54.054 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:28:54.054 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:28:54.054 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:29:56.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:29:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:29:56.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:30:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:30:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:30:21.021 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:30:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:30:21.021 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:33:13.013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:33:14.014 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:33:14.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:33:35.035 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:33:35.035 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:33:35.035 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:33:35.035 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:33:35.035 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:34:55.055 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:34:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:34:56.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:35:28.028 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:35:28.028 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:35:28.028 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:35:28.028 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:35:28.028 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:38:05.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:38:05.005 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:38:05.005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+09:39:14.014 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9] -1342917896
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+09:39:15.015 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+09:39:15.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+10:56:59.059 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:57:00.000 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+10:57:00.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+10:57:12.012 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+10:57:12.012 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+10:57:20.020 [main] INFO  testCases.TC001_LoginPage - validating banker information
+10:57:20.020 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage finished .....
+10:58:39.039 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:58:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+10:58:39.039 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+10:58:47.047 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+10:58:47.047 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+10:58:51.051 [main] INFO  testCases.TC001_LoginPage - validating banker information
+10:58:51.051 [main] ERROR testCases.TC001_LoginPage - Test Failed
+10:58:51.051 [main] DEBUG testCases.TC001_LoginPage - debug logs...
+10:58:53.053 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+10:58:53.053 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+10:58:53.053 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+10:58:53.053 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+10:58:53.053 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:00:39.039 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:00:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:00:40.040 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:00:40.040 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:00:40.040 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:00:40.040 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:00:40.040 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:00:40.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+11:01:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:01:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:01:02.002 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:01:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:01:02.002 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:01:41.041 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:01:41.041 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:01:41.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+11:01:50.050 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+11:01:50.050 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+11:01:54.054 [main] INFO  testCases.TC001_LoginPage - validating banker information
+11:01:54.054 [main] ERROR testCases.TC001_LoginPage - Test Failed
+11:01:54.054 [main] DEBUG testCases.TC001_LoginPage - debug logs...
+11:01:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:01:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:01:56.056 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:01:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:01:56.056 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:03:06.006 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:03:06.006 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:03:06.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+11:03:11.011 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+11:03:11.011 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+11:03:15.015 [main] INFO  testCases.TC001_LoginPage - validating banker information
+11:03:15.015 [main] ERROR testCases.TC001_LoginPage - Test Failed
+11:03:15.015 [main] DEBUG testCases.TC001_LoginPage - debug logs...
+11:03:18.018 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:03:18.018 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:03:18.018 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:03:18.018 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:03:18.018 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:05:36.036 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:05:36.036 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:05:36.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+11:05:41.041 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+11:05:41.041 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+11:05:45.045 [main] INFO  testCases.TC001_LoginPage - validating banker information
+11:05:45.045 [main] ERROR testCases.TC001_LoginPage - Test Failed
+11:05:45.045 [main] DEBUG testCases.TC001_LoginPage - debug logs...
+11:05:47.047 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:05:47.047 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:05:47.047 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:05:47.047 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:05:47.047 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:08:39.039 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:08:39.039 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:08:39.039 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml
+
+11:08:44.044 [main] INFO  testCases.TC001_LoginPage - TC001_LoginPage Started .....
+11:08:44.044 [main] INFO  testCases.TC001_LoginPage - Entering Banker deatils
+11:08:48.048 [main] INFO  testCases.TC001_LoginPage - validating banker information
+11:08:48.048 [main] ERROR testCases.TC001_LoginPage - Test Failed
+11:08:48.048 [main] DEBUG testCases.TC001_LoginPage - debug logs...
+11:08:50.050 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:08:50.050 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:08:50.050 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:08:50.050 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:08:50.050 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:11:24.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Ravi Yadav\eclipse-workspace1\BankProject\master.xml"
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.openApp(java.lang.String,java.lang.String)[pri:0, instance:null] 420110410
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_LoginPage.testLoginPage()[pri:0, instance:testCases.TC001_LoginPage@54361a9] 303684306
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+11:11:25.025 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING

@@ -2,15 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-20T09:39:15 IST" name="Suite" finished-at="2024-12-20T09:39:35 IST" duration-ms="19921">
+  <suite started-at="2024-12-22T11:51:22 IST" name="Suite" finished-at="2024-12-22T11:51:31 IST" duration-ms="8963">
     <groups>
-      <group name="smoke">
-        <method signature="TC003_EditCustomerPage.verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9]" name="verify_editCustomerPage" class="testCases.TC003_EditCustomerPage"/>
-      </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-12-20T09:39:15 IST" name="Test" finished-at="2024-12-20T09:39:35 IST" duration-ms="19921">
-      <class name="testCases.TC003_EditCustomerPage">
-        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9]" started-at="2024-12-20T09:39:15 IST" name="openApp" finished-at="2024-12-20T09:39:20 IST" duration-ms="4498" status="PASS">
+    <test started-at="2024-12-22T11:51:22 IST" name="Test" finished-at="2024-12-22T11:51:31 IST" duration-ms="8963">
+      <class name="testCases.TC005_DeleteCustomerPage">
+        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_DeleteCustomerPage@54361a9]" started-at="2024-12-22T11:51:23 IST" name="openApp" finished-at="2024-12-22T11:51:28 IST" duration-ms="5082" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,15 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="verify_editCustomerPage()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9]" started-at="2024-12-20T09:39:20 IST" name="verify_editCustomerPage" finished-at="2024-12-20T09:39:34 IST" duration-ms="14891" status="PASS">
+        <test-method signature="verify_deleteCustomerPage()[pri:0, instance:testCases.TC005_DeleteCustomerPage@54361a9]" started-at="2024-12-22T11:51:28 IST" name="verify_deleteCustomerPage" finished-at="2024-12-22T11:51:31 IST" duration-ms="3110" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_editCustomerPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_EditCustomerPage@54361a9]" started-at="2024-12-20T09:39:34 IST" name="tearDown" finished-at="2024-12-20T09:39:35 IST" duration-ms="116" status="PASS">
+        </test-method> <!-- verify_deleteCustomerPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC005_DeleteCustomerPage@54361a9]" started-at="2024-12-22T11:51:31 IST" name="tearDown" finished-at="2024-12-22T11:51:31 IST" duration-ms="371" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC003_EditCustomerPage -->
+      </class> <!-- testCases.TC005_DeleteCustomerPage -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

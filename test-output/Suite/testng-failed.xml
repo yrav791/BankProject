@@ -8,13 +8,13 @@
     <parameter name="Os" value="mac"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC003_EditCustomerPage">
+      <class name="testCases.TC001_LoginPage">
         <methods>
           <include name="openApp"/>
           <include name="tearDown"/>
-          <include name="verify_editCustomerPage"/>
+          <include name="testLoginPage"/>
         </methods>
-      </class> <!-- testCases.TC003_EditCustomerPage -->
+      </class> <!-- testCases.TC001_LoginPage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

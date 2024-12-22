@@ -8,10 +8,11 @@
        <parameter name="Os" value="mac"/> 
        <parameter name="browser" value="chrome"/>
     <classes>
-     <!--  <class name="testCases.TC001_LoginPage"/> -->
-     <!--  <class name="testCases.TC002_addNewCustomer"/> -->
-     <!--    <class name="testCases.TC003_loginPageTestDDT"/> -->
-     <class name="testCases.TC003_EditCustomerPage"/> 
+         <!-- <class name="testCases.TC001_LoginPage"/> --> 
+         <!-- <class name="testCases.TC002_addNewCustomer"/> -->
+         <!-- <class name="testCases.TC003_loginPageTestDDT"/> -->
+         <!-- <class name="testCases.TC004_EditCustomerPage"/> -->
+              <class name="testCases.TC005_DeleteCustomerPage"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
